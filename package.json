@@ -1,0 +1,22 @@
+{
+  "name": "la-mar.github.io",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "uglify": "^0.1.5"
+  },
+  "description": "",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la-mar/la-mar.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/la-mar/la-mar.github.io/issues"
+  },
+  "homepage": "https://github.com/la-mar/la-mar.github.io#readme"
+}
